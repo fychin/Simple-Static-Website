@@ -16,6 +16,10 @@ p {
 	line-height: 150%;
 }
 
+.topnav a {
+	cursor: pointer;
+}
+
 /* Scoll to Top Icon */
 #scroll-top {
 	position: fixed;
