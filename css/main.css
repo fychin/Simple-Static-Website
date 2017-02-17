@@ -285,7 +285,11 @@ ul.topnav li.icon {
 
 .project-desc {
 	font-size: 16px;
-	margin: 20px 0 0 40px;
+	margin: 20px 0 20px 40px;
+}
+
+.project-list {
+	padding: 10px;
 }
 
 /* Contact */
